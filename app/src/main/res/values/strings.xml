@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Group10HW03</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="weightlbs">Weight (lbs):</string>
+    <string name="enterweight">Enter Weight</string>
+    <string name="gender">Gender:</string>
+    <string name="female">Female</string>
+    <string name="male">Male</string>
+    <string name="set_weight">Set</string>
+    <string name="weight_dis">Weight:</string>
+    <string name="drink_size">Drink Size:</string>
+    <string name="alcohol_perc">Alcohol %:</string>
+    <string name="oneoz">1 oz</string>
+    <string name="fiveoz">5 oz</string>
+    <string name="twelve">12 oz</string>
+    <string name="reset">Reset</string>
+    <string name="add_drink">Add Drink</string>
+    <string name="drink"># Drinks:</string>
+    <string name="bac_level">BAC Level:</string>
+    <string name="your_status">Your Status:</string>
+    <string name="default_perc">12%</string>
+    <string name="your_safe">You are safe</string>
+    <string name="be_careful">Be careful</string>
+    <string name="over_limit">Over the limit</string>
+    <string name="viewDrink">View Drinks</string>
+    <string name="cancelbutton">Cancel</string>
+    <string name="closeButton">CLOSE</string>
+    <string name="sortAlcohol">Sort by Alcohol %:</string>
+    <string name="sortDateAdded">Sort by Date Added:</string>
+</resources>
